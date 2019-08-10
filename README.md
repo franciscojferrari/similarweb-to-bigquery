@@ -2,7 +2,7 @@
 <img src="https://www.similarweb.com/corp/wp-content/themes/similarcms_2_4/images/swlogo-og.jpg" alt="SimilarWeb Logo" title="SimilarWeb" height="100" align="right" />
 
 
-# SimilarWeb
+# SimilarWeb to BigQuery with GCF
 Automate the extraction of SimilarWeb data to Google BigQuery using SimilarWeb's API and Google Cloud Functions.
 
 
